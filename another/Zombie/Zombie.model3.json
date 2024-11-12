@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Zombie.moc3",
+		"Textures": [
+			"Zombie.4096/texture_00.png"
+		],
+		"Physics": "Zombie.physics3.json",
+		"DisplayInfo": "Zombie.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
